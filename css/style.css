@@ -1,0 +1,13 @@
+.panda-background{
+    background-color: #FEEAE9;
+}
+.categories img{
+    width: 100px;
+   }
+.panda-bye-now-button{
+    width: 168px;
+height: 52px;
+border-radius: 10px;
+color: #FEEAE9;
+background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+}
